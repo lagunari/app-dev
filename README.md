@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 
 ## Favorite Movie Info :movie_camera:
 *Interstellar*
