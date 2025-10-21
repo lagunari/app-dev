@@ -5,7 +5,7 @@ My first repository
 *Interstellar*
 ![Image](https://github.com/user-attachments/assets/d64106bd-1bff-485b-91ab-d2c1496a9107)
 
-| Info |
+|| Info |
 | ----------- | ----------- |
 | Time Dilation occurs when close to a black hole. |
 | When Cooper dropped into Gargantua - he went to a hyper-cubic, grid-like structure called Tesseract. | 
