@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-## Favorite Movie Info
+## Favorite Movie Info :movie_camera:
 *Interstellar*
 ![Image](https://github.com/user-attachments/assets/d64106bd-1bff-485b-91ab-d2c1496a9107)
 
